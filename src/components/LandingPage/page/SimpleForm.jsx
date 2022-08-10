@@ -105,7 +105,7 @@ const steps = [
   {
     id: "ans1",
     message:
-      "Here's the spectrum of benefits you get. GENoCADEMY is an online mentorship platform that helps students be more focussed and mentors to contribute towards community education. ",
+      "Here's the spectrum of benefits you get. YUANDAO is an online mentorship platform that helps students be more focussed and mentors to contribute towards community education. ",
     trigger: "cont3",
   },
   {
@@ -147,7 +147,7 @@ const steps = [
   },
   {
     id: "period2",
-    message: "Donation is just a way of giving financial assisstance for all the educational donation a mentor does through GENoCADEMY.",
+    message: "Donation is just a way of giving financial assisstance for all the educational donation a mentor does through YUANDAO.",
     trigger: "cont2",
   },
   {
