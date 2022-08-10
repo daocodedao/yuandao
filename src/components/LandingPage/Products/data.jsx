@@ -1,6 +1,11 @@
-import sust1 from '../../../assets/images/student.png';
-import sust2 from '../../../assets/images/mentor.png';
-import prod3 from '../../../assets/images/tutor.png';
+// import sust1 from '../../../assets/images/student.png';
+// import sust2 from '../../../assets/images/mentor.png';
+// import prod3 from '../../../assets/images/tutor.png';
+
+import sust1 from '../../../assets/images/student.jpg';
+import sust2 from '../../../assets/images/teacher.jpg';
+import prod3 from '../../../assets/images/builder.jpg';
+
 
 export const productDataTwo = [
   {
