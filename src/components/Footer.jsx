@@ -136,18 +136,18 @@ const Footer = () => {
                   Developers Team
                 </Link>
               </Box>
-            </Grid>
-          </Grid> */}
+            </Grid> */}
+          </Grid>
           <Box textAlign="center" pt={{ xs: 5, sm: 10 }} pb={{ xs: 5, sm: 0 }}>
             YuanDAO &reg; {new Date().getFullYear()} | Copyright Owned by YuanDAO
           </Box>
-          {/* <Box textAlign="center" pb={{ xs: 5, sm: 0 }}>
+          <Box textAlign="center" pb={{ xs: 5, sm: 0 }}>
             <FacebookIcon sx={{ fontSize: "40px" }} />
             <TwitterIcon sx={{ fontSize: "40px" }} />
             <InstagramIcon sx={{ fontSize: "40px" }} />
             <LinkedInIcon sx={{ fontSize: "40px" }} />
             <YouTubeIcon sx={{ fontSize: "40px" }} />
-          </Box> */}
+          </Box>
         </Container>
       </Box>
     </footer>
