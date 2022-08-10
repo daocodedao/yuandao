@@ -11,7 +11,7 @@ export default function LandingPage() {
     return (
         <div>
       <Hero />
-      <Products heading='加入我们的DAO!' data={productDataTwo} />
+      <Products heading='加入我们元学DAO!' data={productDataTwo} />
       <Statistics />
       <Features heading='都有什么?' data={productData} />
       <SimpleForm/>

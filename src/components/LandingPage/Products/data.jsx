@@ -6,10 +6,10 @@ export const productDataTwo = [
   {
     img: sust1,
     alt: 'Students',
-    name: '成为学生',
+    name: '成为学员',
     desc:
-      'Register as a student and reap the benefits of a interactive, engaging and classroom-like online study platform.',
-    
+      '了解元宇宙，才能探索元宇宙。成为建设者？投资者？步道者？',
+
     button: 'Register👨🏻‍🎓'
   },
   {
@@ -17,7 +17,7 @@ export const productDataTwo = [
     alt: 'mentor',
     name: '成为老师',
     desc:
-      'A small light is all that one needs to travel the dark forest. Come join as a Mentor and enlighten the path of thousand wanderers.',
+      '成为黑夜森立里的一盏灯。分享你的知识体系，趣闻和见解',
     button: 'Register📈'
   },
   {
@@ -25,7 +25,7 @@ export const productDataTwo = [
     alt: 'teacher',
     name: '成为Builder',
     desc:
-      'Knowledge multiplies by sharing. Register yourself as a teacher and join the new generation mode of effective teaching.',
+      '获取知识，建立共识，一起加入DAO，共建元宇宙',
     button: 'Register👨🏽‍🏫'
   }
 ];

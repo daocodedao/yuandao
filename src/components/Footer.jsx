@@ -30,7 +30,7 @@ const Footer = () => {
                   color="inherit"
                   sx={({ textDecoration: "none" }, { fontSize: "28px" })}
                 >
-                 元DAO学院
+                 元学DAO学院
                 </Link>
               </Box>
               <Box>
@@ -62,7 +62,7 @@ const Footer = () => {
               </Box>
               <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
-                  张先生：185 1556 9569
+                  张先生：185 1556 9569（微信同号）
                 </Link>
               </Box>
               {/* <Box>
@@ -142,11 +142,11 @@ const Footer = () => {
             YuanDAO &reg; {new Date().getFullYear()} | Copyright Owned by YuanDAO
           </Box>
           <Box textAlign="center" pb={{ xs: 5, sm: 0 }}>
-            <FacebookIcon sx={{ fontSize: "40px" }} />
+            {/* <FacebookIcon sx={{ fontSize: "40px" }} />
             <TwitterIcon sx={{ fontSize: "40px" }} />
             <InstagramIcon sx={{ fontSize: "40px" }} />
             <LinkedInIcon sx={{ fontSize: "40px" }} />
-            <YouTubeIcon sx={{ fontSize: "40px" }} />
+            <YouTubeIcon sx={{ fontSize: "40px" }} /> */}
           </Box>
         </Container>
       </Box>
