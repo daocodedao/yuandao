@@ -17,7 +17,7 @@ export const productDataTwo = [
     alt: 'mentor',
     name: '成为老师',
     desc:
-      '成为黑夜森立里的一盏灯。分享你的知识体系，趣闻和见解',
+      '成为黑夜森林里的一盏灯。分享你的知识体系，趣闻和见解',
     button: 'Register📈'
   },
   {
