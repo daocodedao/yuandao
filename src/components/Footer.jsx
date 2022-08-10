@@ -30,7 +30,7 @@ const Footer = () => {
                   color="inherit"
                   sx={({ textDecoration: "none" }, { fontSize: "28px" })}
                 >
-                 元学DAO学院
+                 元学院
                 </Link>
               </Box>
               <Box>

@@ -45,9 +45,9 @@ function App() {
             <Route exact path="/watch" element={<ProtectedRoute />}>
               <Route exact path="/watch" element={<Player />} />
             </Route>
-            <Route exact path="/chat" element={<ProtectedRoute />}>
+            {/* <Route exact path="/chat" element={<ProtectedRoute />}>
               <Route exact path="/chat" element={<Chat />} />
-            </Route>
+            </Route> */}
             <Route exact path="/class" element={<ProtectedRoute />}>
               <Route exact path="/class" element={<AllClass />} />
             </Route>
