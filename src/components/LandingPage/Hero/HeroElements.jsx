@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+// import ImgBg from '../../../assets/images/hero.png';
 import ImgBg from '../../../assets/images/hero.png';
 
 export const HeroContainer = styled.div`
