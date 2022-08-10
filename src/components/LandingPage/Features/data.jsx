@@ -9,7 +9,7 @@ export const productData = [
   {
     img: product6,
     alt: 'tutor',
-    name: '1:1 Mentorship',
+    name: '元宇宙',
     desc:
       "Mentors can be searched according to students' goals. Less wastage of time surfing through the infinite resources available in the internet or running behind previous year toppers. 'Cause mentors can create courses or classes based on their experiences.",
   },
