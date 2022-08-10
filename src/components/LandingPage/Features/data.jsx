@@ -46,8 +46,8 @@ export const productData = [
 
   {
     img: product3,
-    alt: '创业机会',
-    name: '创业机会',
+    alt: '区块链',
+    name: '区块链',
     desc:
       '1、区块链诞生的背景 2、区块链和比特币 3、区块链应用 ',
   }

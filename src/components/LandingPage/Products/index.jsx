@@ -18,7 +18,7 @@ const Products = ({ heading, data }) => {
         {data.map((product, index) => {
           return (
             <ProductCard key={index}>
-              <ProductImg src={product.img} alt={product.alt} mode="aspectfit" />
+              <ProductImg src={product.img} alt={product.alt}  resizeMode="contain" style={{flex:1}} />
               <ProductInfo>
                 <ProductTitle>{product.name}</ProductTitle>
                 <ProductDesc>{product.desc}</ProductDesc>
