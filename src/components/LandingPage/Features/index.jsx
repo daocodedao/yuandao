@@ -18,7 +18,7 @@ const Services = ({ heading, data }) => {
         {data.map((product, index) => {
           return (
             <ServiceCard key={index}>
-              <ServiceImg src={product.img} alt={product.alt} />
+              <ServiceImg src={product.img} alt={product.alt} mode="aspectfit" />
 
               <ServiceInfo>
                 <ServiceTitle>{product.name}</ServiceTitle>

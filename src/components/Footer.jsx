@@ -62,7 +62,7 @@ const Footer = () => {
               </Box>
               <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
-                  张先生：185 1556 9569（微信同号）
+                  张先生：185 1556 9569(微信同号)
                 </Link>
               </Box>
               {/* <Box>
