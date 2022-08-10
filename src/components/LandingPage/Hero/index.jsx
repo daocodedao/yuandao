@@ -18,9 +18,9 @@ const Hero = () => {
       
       <HeroContent>
         <HeroItems>
-          <HeroH1>Welcome to <br/> Gen-o-Cademy</HeroH1>
-        { sm ? (<HeroP>Coming Together is a Beginning, <br /> Keeping Together is Progress,<br /> Working Together is Success.</HeroP>) : <HeroP><br/><br/><br/><br/></HeroP>}
-          <HeroBtn ><Link to="/dashboard" className='HeroBtnLink' style={{textDecoration:"none",color:"#339C97"}}>Dashboard </Link></HeroBtn>
+          <HeroH1>欢迎来到 <br/> 元学院</HeroH1>
+        { sm ? (<HeroP>一起 web3, <br /> 一起 元宇宙,<br /> 一起 DAO.</HeroP>) : <HeroP><br/><br/><br/><br/></HeroP>}
+          {/* <HeroBtn ><Link to="/dashboard" className='HeroBtnLink' style={{textDecoration:"none",color:"#339C97"}}>Dashboard </Link></HeroBtn> */}
         </HeroItems>
       </HeroContent>
     </HeroContainer>

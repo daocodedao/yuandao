@@ -5,10 +5,10 @@ import { Link } from "react-router-dom";
 const Feature = () => {
   return (
     <FeatureContainer>
-      <h1>🏆 Our Statistics 🏆 </h1>
-      <p>450+ Students | 175+ Mentors | 60+ Tutors | 70+ Schools </p>
+      <h1>🏆 我们的历史 🏆 </h1>
+      <p>10+ 课程 | 100+ 学习 | 60+ DAO </p>
       <Link to="/signup"> 
-      <FeatureButton>Register Now</FeatureButton> 
+      {/* <FeatureButton>Register Now</FeatureButton>  */}
       </Link>
     </FeatureContainer>
   );

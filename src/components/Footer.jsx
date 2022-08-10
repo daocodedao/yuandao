@@ -30,15 +30,15 @@ const Footer = () => {
                   color="inherit"
                   sx={({ textDecoration: "none" }, { fontSize: "28px" })}
                 >
-                 TEAM RAW NUTS
+                 元DAO学院
                 </Link>
               </Box>
               <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
-                  Made with ❤️ by
+                  Build By YuanDAO
                 </Link>
               </Box>
-              <Box>
+              {/* <Box>
                 <Link href="https://github.com/Swatishree-Mahapatra" color="inherit" sx={{ textDecoration: "none" }}>
                   Swatishree Mahapatra    
                 </Link>
@@ -52,20 +52,20 @@ const Footer = () => {
                 <Link href="https://github.com/120EE0692" color="inherit" sx={{ textDecoration: "none" }}>
                   Aashish Pradhan
                 </Link>
-              </Box>
+              </Box> */}
             </Grid>
             <Grid item xs={12} sm={3} >
               <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
-                  About Us
+                  联系我们
                 </Link>
               </Box>
               <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
-                  Contact Us
+                  张先生：185 1556 9569
                 </Link>
               </Box>
-              <Box>
+              {/* <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
                   Drop A Question
                 </Link>
@@ -79,9 +79,11 @@ const Footer = () => {
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
                   Terms n Conditions
                 </Link>
-              </Box>
+              </Box> */}
             </Grid>
-            <Grid item xs={12} sm={3}>
+
+
+            {/* <Grid item xs={12} sm={3}>
               <Box>
                 <Link href="/" color="inherit" sx={{ textDecoration: "none" }}>
                   JEE
@@ -135,18 +137,17 @@ const Footer = () => {
                 </Link>
               </Box>
             </Grid>
-          </Grid>
+          </Grid> */}
           <Box textAlign="center" pt={{ xs: 5, sm: 10 }} pb={{ xs: 5, sm: 0 }}>
-            GyaanDaan &reg; {new Date().getFullYear()} | Copyright Owned by Team
-            RAW NUTS
+            YuanDAO &reg; {new Date().getFullYear()} | Copyright Owned by YuanDAO
           </Box>
-          <Box textAlign="center" pb={{ xs: 5, sm: 0 }}>
+          {/* <Box textAlign="center" pb={{ xs: 5, sm: 0 }}>
             <FacebookIcon sx={{ fontSize: "40px" }} />
             <TwitterIcon sx={{ fontSize: "40px" }} />
             <InstagramIcon sx={{ fontSize: "40px" }} />
             <LinkedInIcon sx={{ fontSize: "40px" }} />
             <YouTubeIcon sx={{ fontSize: "40px" }} />
-          </Box>
+          </Box> */}
         </Container>
       </Box>
     </footer>

@@ -78,13 +78,13 @@ const Navbar = () => {
             </Link>
           </div>
           <ul className={classes.navList}>
-            <Link to="/signup" className={classes.navLink}>
+            {/* <Link to="/signup" className={classes.navLink}>
               <li className={classes.navItem}>Sign Up</li>
             </Link>
 
             <Link to="/login" className={classes.navLink}>
               <li className={classes.navItem}>Log In</li>
-            </Link>
+            </Link> */}
           </ul>
         </div>
       </div>
