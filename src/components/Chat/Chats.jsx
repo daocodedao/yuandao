@@ -48,14 +48,15 @@ const DirectChatPage = () => {
   }
 
   return (
-    <>{
-      !loading && <ChatEngine
-        height='100vh'
-        userName={loginUserName}
-        userSecret={id}
-        projectID={process.env.REACT_APP_CHAT_ENGINE_PROJECT_ID}
-      />}
-    </>
+    <div></div>
+    // <>{
+    //   !loading && <ChatEngine
+    //     height='100vh'
+    //     userName={loginUserName}
+    //     userSecret={id}
+    //     projectID={process.env.REACT_APP_CHAT_ENGINE_PROJECT_ID}
+    //   />}
+    // </>
   );
 };
 
