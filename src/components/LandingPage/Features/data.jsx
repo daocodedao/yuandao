@@ -8,47 +8,47 @@ import product6 from '../../../assets/images/tutor2.jpg';
 export const productData = [
   {
     img: product6,
-    alt: 'tutor',
+    alt: '元宇宙',
     name: '元宇宙',
     desc:
-      "Mentors can be searched according to students' goals. Less wastage of time surfing through the infinite resources available in the internet or running behind previous year toppers. 'Cause mentors can create courses or classes based on their experiences.",
+      "1、元宇宙起源 2、元宇宙的发展 3、元宇宙的概念 4、元宇宙的要素及特征 5、元宇宙的核心技术 6、元宇宙的布局 7、元宇宙的风险及未来展望",
   },
 
 
   {
     img: product2,
-    alt: 'Forum',
-    name: 'Discussion Forum',
+    alt: '数字人',
+    name: '数字人',
     desc:
-      'No education is complete without the students engaging with the topic. An interactive discussion forum caters to the unrest curiosity of the young minds to actively discuss among themselves and clarify with the mentors.',
+      '1、数字人的概念 2、数字人的发展历程 3、数字人的技术架构和系统框架 4、数字人的应用和类型 5、数字人的政策支持 6、数字人的风险及未来展望',
   },
   {
     img: product5,
-    alt: 'Doubt Solving',
-    name: 'Live Classes and Doubt Solving Sessions',
+    alt: 'NFT',
+    name: '数字收藏品NFT',
     desc:
-      'Mentors and tutors can schedule classes or doubt solving sessions over any electronic means like GMeet or Zoom. ',
+      '1、NFT的感知 2、NFT的技术逻辑 3、NFT的交易与定价 4、NFT的应用及案例分析 5、对NFT的思考',
   },
   {
     img: product1,
-    alt: 'Study Rooms',
-    name: 'Study Rooms',
+    alt: 'DAO',
+    name: 'DAO',
     desc:
-      'Did you miss the tranquil of libraries in the online studying? No worries. We have exact solution through our carefully designed Study Rooms. No advertisements, no distractions, 100% Focus.',
+      '1、什么是DAO 2、如何创建运营DAO 3、DAO的现状和未来 4、案例讲解 5、问题和风险',
   },
   {
     img: product4,
-    alt: 'Chat',
-    name: 'Interaction',
+    alt: '创业机会',
+    name: '创业机会',
     desc:
-      'An active interaction with the mentors ensures the right transit of knowledge. Students can contact with their mentors to solve their doubts, ask for guidance or simply resolve their career issues through our in-built chat feature.',
+      '1、元宇宙相关产业 2、元宇宙的深度报告 3、元宇宙创业机会',
   },
 
   {
     img: product3,
-    alt: 'todo',
-    name: 'Effective Checklist',
+    alt: '创业机会',
+    name: '创业机会',
     desc:
-      'Tracking progress is vital. Our platform provides the means to have a reality check everytime one completes a planned task. ',
+      '1、区块链诞生的背景 2、区块链和比特币 3、区块链应用 ',
   }
 ];
