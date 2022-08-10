@@ -1,9 +1,9 @@
-import product1 from '../../../assets/images/focus.png';
-import product2 from '../../../assets/images/forum.webp';
-import product3 from '../../../assets/images/todo.jpg';
-import product4 from '../../../assets/images/class.jpg';
-import product5 from '../../../assets/images/doubt.jpg';
-import product6 from '../../../assets/images/tutor2.jpg';
+import product1 from '../../../assets/images/dao.jpg';
+import product2 from '../../../assets/images/digitalperson.jpg';
+import product3 from '../../../assets/images/block.jpg';
+import product4 from '../../../assets/images/web3.jpg';
+import product5 from '../../../assets/images/nft.jpg';
+import product6 from '../../../assets/images/meta.jpg';
 
 export const productData = [
   {
