@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 // import ImgBg from '../../../assets/images/hero.png';
-import ImgBg from '../../../assets/images/hero.png';
+import ImgBg from '../../../assets/images/cyber.jpg';
 
 export const HeroContainer = styled.div`
   background: linear-gradient(to left, rgba(100, 255, 150, 0.2), rgba(0, 0, 0, 0.1)),
